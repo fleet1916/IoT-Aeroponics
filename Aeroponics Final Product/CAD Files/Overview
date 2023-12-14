@@ -1,0 +1,14 @@
+There are three main CAD files: 
+-Switch Box
+-Remote Control Casing
+-Fan and Sensor Stand.
+
+All three of these use bounding box CADs of the electrical components that are in the Electonic Models folder.
+
+The three main files have STL and STEP options.
+The STL have split the lids and hulls of the casings while the STEP contains them together.
+
+The STL version can be used to print without any checking, 
+but it may be useful to slice the casings in half and print them in two parts. 
+This has already been done in the Switch Casing CAD to prevent a large amount of support structures and allow for faster print times.
+Therefore, the STEP file is given for any adjustments that may need to be done.
