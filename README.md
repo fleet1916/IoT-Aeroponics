@@ -1,4 +1,7 @@
 # IoT-Aeroponics
+Authors: Zheyuan Zheng (zz534@cornell.edu), Kyle Harris (kah289@cornell.edu), Department of Mechanical and Aerospace Engineering, Cornell University. 
+Under the support of Prof. Perrine Pepiot, MAE and Prof. Magdalena Maria Julkowska, Boyce Thompson Institute. 
+
 An basic IoT solution for aeroponics system control based on Arduino 
 This project uses a ESP 8266 to set up WiFi and server to allow the control of multiple aeroponics systems to raise multiple plants. 
 It includes 4 basic types of the station: The Main Control Terminal (MCT), The Bucket Control Station (BCS), Data Collection and Calibration Station (DCS), and In Bucket Stand (IBS). 
