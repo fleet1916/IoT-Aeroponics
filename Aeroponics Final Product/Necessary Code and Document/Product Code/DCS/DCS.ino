@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-const int analogInPin = A0;
+const int analogInPin = A1;
 double calibValue[10];
 double sensorValue[10];
 double result;

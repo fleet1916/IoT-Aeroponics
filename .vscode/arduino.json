@@ -1,0 +1,6 @@
+{
+    "port": "COM10",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "Aeroponics Final Product\\Necessary Code and Document\\Product Code\\DCS\\DCS.ino"
+}
